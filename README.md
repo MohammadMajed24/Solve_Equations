@@ -1,4 +1,4 @@
-<h1>Hello every one this system is developed by Mohammad Majed student at Nile University</h1>
+<h1>Hello everyone this system is developed by Mohammad Majed student at Nile University</h1>
 
 This algorithm can convert any system ro Reduced row-echolon form RREF
 
