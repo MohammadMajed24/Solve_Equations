@@ -1,6 +1,6 @@
 <h1>Hello everyone this system is developed by Mohammad Majed student at Nile University</h1>
 
-This algorithm can convert any system ro Reduced row-echolon form RREF
+This algorithm can convert any system to Reduced row-echolon form RREF
 
 ex: how to input row by row each row element  seperated with space
 
